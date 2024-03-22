@@ -6,7 +6,6 @@ public class GuessNumberGame {
     int M;
     int randomNumber;
     int L;
-
     //Do not modify main method
     public static void main(String[] args) {
         try {
