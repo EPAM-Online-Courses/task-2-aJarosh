@@ -3,7 +3,6 @@ import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class GuessNumberGame {
-
     int M;
     int randomNumber;
     int L;
