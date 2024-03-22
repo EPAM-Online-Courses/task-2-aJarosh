@@ -18,7 +18,6 @@ public class GuessNumberGame {
         }
     }
 
-
     public GuessNumberGame(String argument) {
         //TODO: Implement the constructor
         try {
